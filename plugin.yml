@@ -1,0 +1,5 @@
+name: "ForceFormClose"
+version: 1.0
+api: 5.0.0
+main: Jibix\ForceFormClose\Main
+author: "Jibix"
